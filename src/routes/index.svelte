@@ -143,6 +143,7 @@
         background-color: indigo;
         color: white;
         outline: none;
+        cursor: pointer;
     }
     .searchbar {
         align-content: center;

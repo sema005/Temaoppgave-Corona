@@ -62,6 +62,7 @@
 		height: 2rem;;
 		border-radius: 30px;
 		box-shadow: 20px white;
+		cursor: pointer;
 	}
 	.white {
 		color: white;
