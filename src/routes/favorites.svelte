@@ -27,7 +27,7 @@
         {#each favoritesCountry as favorite}
             <Favorite favoritesCountry={favorite.data()}/>
         {:else}
-            <p>U dont have any favorties yet</p>
+            <p>You dont have any favorties yet...</p>
         {/each}
     </div>
 
